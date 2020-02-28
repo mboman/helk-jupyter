@@ -1,2 +1,8 @@
 ---
-# vars file for helk-jupyter
+
+POSTGRESQL_VERSION: 42.2.9
+JUPYTER_DIR: /opt/jupyter
+JUPYTER_USER:
+JUPYTER_TYPE: notebook
+JUPYTER_BASE_URL: /jupyter
+SPARK_HOME: /opt/helk/spark
